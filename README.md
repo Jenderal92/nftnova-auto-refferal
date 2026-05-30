@@ -10,8 +10,6 @@ Python 2.7
 
 Buy Coffee :
 <li>Bitcoin $: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
-<li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
-<li>Ko-Fi $: https://ko-fi.com/shincode403</li>
 
 ![IMG_20240525_083813](https://github.com/Jenderal92/nftnofa-auto-refferal/assets/59664965/9cbe8f06-4023-4977-9f6f-9c63d623d118)
 
